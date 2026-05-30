@@ -1,0 +1,6 @@
+{
+  "name": "EventPro",
+  "description": "A premium, fully interactive event planning and management dashboard for organizers and attendees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
